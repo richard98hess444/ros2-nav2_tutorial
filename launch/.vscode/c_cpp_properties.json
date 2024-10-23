@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hsuhanjaya/Richard/livox_ws/install/livox_ros_driver2/include/**",
+        "/home/hsuhanjaya/Richard/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros2_messages/include/**",
+        "/home/hsuhanjaya/Richard/IsaacSim-ros_workspaces/humble_ws/install/custom_message/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/hsuhanjaya/Richard/ros2_ws/src/cpp_py_pkg/include/**",
+        "/home/hsuhanjaya/Richard/ros2_ws/src/ros2_tutorial/include/**",
+        "/home/hsuhanjaya/Richard/ros2_ws/src/sam_bot_description/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
